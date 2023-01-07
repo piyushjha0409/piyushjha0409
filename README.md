@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about tech.
 - 📫 How to reach me: peeyush0409@gmail.com
-- ⚡ Fun fact: I love coding but I hate bugs :(
+- ⚡ Fun fact: I love debugging more than coding :)
+-💼📋 My Portfolio - https://piyushjhaportfolio.netlify.app/
 
