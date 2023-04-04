@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
-- 👨‍💻 All of my projects are available at [piyushjhaportfolio.netlify.app](piyushjhaportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [piyushj.netlify.app](piyushjhaportfolio.netlify.app)
 
 - 💬 Ask me about **tech and finance.**
 
