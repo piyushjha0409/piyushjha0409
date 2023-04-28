@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **peeyush0409@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vKUnsy_LN1BJLMVGqpefqKg7emX6MFyD/view?usp=share_link](https://drive.google.com/file/d/1vKUnsy_LN1BJLMVGqpefqKg7emX6MFyD/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1vKUnsy_LN1BJLMVGqpefqKg7emX6MFyD/view?usp=share_link](https://docs.google.com/document/d/1_0xQ9GWE-bXLTOsA1C2FtNMN_iWPm6xcmdiC2vSX22Y/edit?usp=share_link)]
 
 - ⚡ Fun fact **An apple a day keeps bugs away!**
 
