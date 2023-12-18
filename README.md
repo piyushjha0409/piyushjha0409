@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushjha0409&label=Profile%20views&color=0e75b6&style=flat" alt="piyushjha0409" /> </p>
 
 
-- 🔭 I’m currently working on **Decentralised chat app**
+- 🔭 I’m currently working on Hive blockchain @vsc.eco
 
 - 🌱 I’m currently learning **Web3(Solidity, Hardhat, ether.js)**
 
