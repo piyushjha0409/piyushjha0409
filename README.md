@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on Hive blockchain @vsc.eco
 
-- 🌱 I’m currently learning **Web3(Solidity, Hardhat, ether.js)**
+- 🌱 I’m currently learning **Web3** and **Nextjs**
 
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
 - 👨‍💻 All of my projects are available at [piyushj.netlify.app](piyushjhaportfolio.netlify.app)
 
-- 💬 Ask me about **tech and finance.**
+- 💬 Ask me about **Tech and Startups**
 
 - 📫 How to reach me **peeyush0409@gmail.com**
 
