@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Hive blockchain @vsc.eco
 
-- 🌱 I’m currently learning **Web3** and **Nextjs**
+- 🌱 I’m currently learning **Web3** and **Golang**
 
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
