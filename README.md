@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushjha0409&label=Profile%20views&color=0e75b6&style=flat" alt="piyushjha0409" /> </p>
 
 
-- 🔭 I’m currently working on Hive blockchain @vsc.eco
+- 🔭 I’m currently working on Solana ecosystem
 
-- 🌱 I’m currently learning **Web3** and **Golang**
+- ⚒️ Building Solana projects and Maintaining a coommunity project (Time Managment tool)
+
+- 🌱 I’m currently learning **Web3** and **Rust**
 
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
