@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Solana ecosystem
 
-- ⚒️ Building Solana projects and Maintaining a coommunity project (Time Managment tool)
+- ⚒️ Building Solana projects and maintaining a coommunity project (Time Managment tool)
 
 - 🌱 I’m currently learning **Web3** and **Rust**
 
