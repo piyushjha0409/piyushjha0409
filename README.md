@@ -8,7 +8,7 @@
 
 - ⚒️ Building Solana projects and maintaining a coommunity project (Time Managment tool)
 
-- 🌱 I’m currently learning **Web3** and **Rust**
+- 🌱 I’m currently learning **Web3** and **Rust** and Exploring **DeSci**
 
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
